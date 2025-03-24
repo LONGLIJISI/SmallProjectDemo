@@ -5,6 +5,7 @@ public class Test {
     public static void main(String[] args) {
         //目标：猜数字游戏
         guessNumber();
+        //更新github注释
     }
     public static void guessNumber(){
         //1.产生一个随机数: 1-100之间
